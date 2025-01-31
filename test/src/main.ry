@@ -1,0 +1,5 @@
+trash_cleaner = true
+
+func Main {
+    print('Hello World!')
+}
